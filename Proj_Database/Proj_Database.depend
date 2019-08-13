@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1536954681 source:c:\users\~mohamed~\documents\c prog\assignment2\proj_database\database.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Database.h"
+
+1536953396 c:\users\~mohamed~\documents\c prog\assignment2\proj_database\database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1536954862 source:c:\users\~mohamed~\documents\c prog\assignment2\proj_database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Database.h"
+
+1536955798 source:c:\users\~mohamed~\documents\c prog\proj_database\database.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Database.h"
+
+1536953396 c:\users\~mohamed~\documents\c prog\proj_database\database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1536954862 source:c:\users\~mohamed~\documents\c prog\proj_database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Database.h"
+
