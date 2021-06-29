@@ -1,0 +1,65 @@
+#include <stdio.h>
+
+/* Ex1 */
+void PrintSentence(void);
+
+/* Ex2 */
+void PrintNumber(void);
+
+/* Ex3 */
+void AddTwoIntegers(void);
+
+/* Ex4 */
+void MultiplyTwoFloats(void);
+
+int main(void)
+{
+	/*
+	 	 PrintSentence();
+		 PrintNumber();
+	*/
+	AddTwoIntegers();
+
+	return 0;
+}
+
+void PrintSentence(void)
+{
+	printf("C Programming");
+}
+
+void PrintNumber(void)
+{
+	int num;
+
+	printf("Enter an integer: ");
+	fflush(stdout);
+	scanf("%d", &num);
+	printf("You entered: %d", num);
+
+}
+
+void AddTwoIntegers(void)
+{
+	int num1, num2;
+
+	printf("Enter two integers: ");
+	fflush(stdout);
+	scanf("%d %d", &num1, &num2);
+	fflush(stdin);
+	printf("Sum: %d", num1 + num2);
+
+}
+
+void MultiplyTwoFloats(void)
+{
+	float num1, num2;
+
+	printf("Enter two numbers: ");
+	fflush(stdout);
+	scanf("%d%d", num1,num2);
+	fflush(stdin);
+	printf("Product: %d", num1 * num2);
+}
+
+

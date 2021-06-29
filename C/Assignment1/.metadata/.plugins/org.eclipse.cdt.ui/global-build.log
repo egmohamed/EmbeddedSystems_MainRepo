@@ -1,0 +1,63 @@
+Info: Nothing to build for Test
+Info: Nothing to build for Test
+18:38:52 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\file.o" "..\\src\\file.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+Info: Nothing to build for Test
+18:41:52 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\file.o" "..\\src\\file.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+Info: Nothing to build for Test
+18:42:43 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+Info: Nothing to build for Test
+07:50:52 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+..\src\Test.c: In function 'main':
+..\src\Test.c:18:15: error: 'x' undeclared (first use in this function)
+  printf("%d", x);
+               ^
+..\src\Test.c:18:15: note: each undeclared identifier is reported only once for each function it appears in
+07:51:07 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+..\src\Test.c: In function 'main':
+..\src\Test.c:18:15: error: 'x' undeclared (first use in this function)
+  printf("%d", x);
+               ^
+..\src\Test.c:18:15: note: each undeclared identifier is reported only once for each function it appears in
+07:51:10 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+07:51:50 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+08:06:30 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+..\src\Test.c: In function 'main':
+..\src\Test.c:18:15: error: 'jkiojnlopijhuoh' undeclared (first use in this function)
+  printf("%d", jkiojnlopijhuoh);
+               ^
+..\src\Test.c:18:15: note: each undeclared identifier is reported only once for each function it appears in
+08:06:41 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+08:11:46 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+Info: Nothing to build for Test
+08:12:06 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -ansi -std=c89 -o Test.exe "src\\file.o" "src\\Test.o" 
+Info: Nothing to build for Test

@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+//Ex1
+void PrintSentence(void);
+void PrintNumber(void);
+
+int main(void)
+{
+	//PrintSentence();
+	PrintNumber();
+}
+
+void PrintSentence(void)
+{
+	printf("C Programming");
+}
+
+void PrintNumber(void)
+{
+	int num;
+
+	printf("Enter an integer: ");
+	fflush(stdout);
+	scanf("%d", &num);
+	printf("You entered: %d", num);
+
+}

@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+//Ex1
+void PrintSentence(void);
+
+int main(void)
+{
+	PrintSentence();
+}
+
+void PrintSentence(void)
+{
+	printf("C Programming");
+}

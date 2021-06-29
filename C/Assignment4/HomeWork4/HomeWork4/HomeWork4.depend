@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623968326 source:d:\learnindepth\embeddedsystems_mohamedhosny_learnindepth\c\assignment4\homework4\homework4\main.c
+	"HomeWork4.h"
+
+1623892809 d:\learnindepth\embeddedsystems_mohamedhosny_learnindepth\c\assignment4\homework4\homework4\homework4.h
+	<stdio.h>
+
+1623968228 source:d:\learnindepth\embeddedsystems_mohamedhosny_learnindepth\c\assignment4\homework4\homework4\homework4.c
+	"HomeWork4.h"
+
