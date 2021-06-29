@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541367168 source:c:\users\~mohamed~\documents\c prog\permutations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1535586582 source:c:\users\~mohamed~\documents\c prog\permutations\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1535584902 c:\users\~mohamed~\documents\c prog\permutations\headers.h
+

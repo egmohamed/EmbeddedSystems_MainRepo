@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534355612 source:c:\users\~mohamed~\documents\c prog\alphapets\main.c
+	<stdio.h>
+	<stdlib.h>
+

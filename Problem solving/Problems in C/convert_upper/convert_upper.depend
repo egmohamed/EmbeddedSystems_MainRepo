@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536692493 source:c:\users\~mohamed~\documents\c prog\assignment2\convert_upper\convert_upper.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1536692606 source:c:\users\~mohamed~\documents\c prog\assignment2\convert_upper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"convertUpper.h"
+
+1536691433 c:\users\~mohamed~\documents\c prog\assignment2\convert_upper\convertupper.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

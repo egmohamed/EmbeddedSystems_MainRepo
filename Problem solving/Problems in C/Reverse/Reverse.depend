@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535606320 source:c:\users\~mohamed~\documents\c prog\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535606320 source:c:\users\~mohamed~\documents\c prog\reverse\funcs.c
+	<stdio.h>
+	<stdlib.h>
+

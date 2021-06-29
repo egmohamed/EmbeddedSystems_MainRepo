@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1534500472 source:c:\users\~mohamed~\documents\c prog\passed_boxes1\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1534500399 source:c:\users\~mohamed~\documents\c prog\passed_boxes1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1534499654 c:\users\~mohamed~\documents\c prog\passed_boxes1\header.h
+

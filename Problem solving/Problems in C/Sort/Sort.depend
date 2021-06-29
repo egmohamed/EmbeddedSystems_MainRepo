@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535530314 source:c:\users\~mohamed~\documents\c prog\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1535530107 source:c:\users\~mohamed~\documents\c prog\sort\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1535530367 c:\users\~mohamed~\documents\c prog\sort\header.h
+

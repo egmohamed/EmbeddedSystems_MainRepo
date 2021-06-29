@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534266048 source:c:\users\~mohamed~\documents\c prog\strlen_ptr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

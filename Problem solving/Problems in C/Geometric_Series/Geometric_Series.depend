@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1536755346 source:c:\users\~mohamed~\documents\c prog\assignment2\geometric_series\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"geometric.h"
+
+1536755224 c:\users\~mohamed~\documents\c prog\assignment2\geometric_series\geometric.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1536755244 source:c:\users\~mohamed~\documents\c prog\assignment2\geometric_series\geometric.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"geometric.h"
+

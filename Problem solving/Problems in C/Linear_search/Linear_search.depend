@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536741446 source:c:\users\~mohamed~\documents\c prog\assignment2\linear_search\linearsearch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1536741510 source:c:\users\~mohamed~\documents\c prog\assignment2\linear_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

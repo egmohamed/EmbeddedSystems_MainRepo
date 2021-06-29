@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536743294 source:c:\users\~mohamed~\documents\c prog\assignment2\arithmetic_series\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536742996 source:c:\users\~mohamed~\documents\c prog\assignment2\arithmetic_series\arithmitic_series.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1536696887 source:c:\users\~mohamed~\documents\c prog\assignment2\checkrepeated\checkrep.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1536696596 source:c:\users\~mohamed~\documents\c prog\assignment2\checkrepeated\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"checkRepeated.h"
+	<string.h>
+
+1536694828 c:\users\~mohamed~\documents\c prog\assignment2\checkrepeated\checkrepeated.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

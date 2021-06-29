@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535587591 source:c:\users\~mohamed~\documents\c prog\perm\functions.c
+
+1535587700 source:c:\users\~mohamed~\documents\c prog\perm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1535587642 c:\users\~mohamed~\documents\c prog\perm\headers.h
+

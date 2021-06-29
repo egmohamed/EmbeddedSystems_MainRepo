@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568502252 source:c:\users\~mohamed~\documents\c prog\pattern_reversed_v\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

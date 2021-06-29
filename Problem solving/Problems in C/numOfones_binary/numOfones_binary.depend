@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539819112 source:c:\users\~mohamed~\documents\c prog\numofones_binary\main.c
+	<stdlib.h>
+	<stdio.h>
+

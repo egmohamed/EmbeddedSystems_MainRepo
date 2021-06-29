@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572877539 source:c:\users\~mohamed~\documents\c prog\count_repeated_word_in_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536400132 source:c:\users\~mohamed~\documents\c prog\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1536351089 c:\users\~mohamed~\documents\c prog\linkedlist\linkedlist.h
+
+1536400394 source:c:\users\~mohamed~\documents\c prog\linkedlist\linked.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+

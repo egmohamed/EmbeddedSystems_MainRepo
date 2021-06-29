@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605091063 source:c:\users\~mohamed~\documents\c prog\assignment2\mytest\main.c
+	<stdio.h>
+	<string.h>
+
+1571835269 source:c:\users\~mohamed~\documents\c prog\assignment2\mytest\myfuns.c
+
+1561108792 c:\users\~mohamed~\documents\c prog\assignment2\mytest\anofile.h
+
+1561109658 source:c:\users\~mohamed~\documents\c prog\assignment2\mytest\file2.c
+

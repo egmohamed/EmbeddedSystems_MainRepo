@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536687690 source:c:\users\~mohamed~\documents\c prog\assignment2\stars\main.c
+	<stdio.h>
+	<stdlib.h>
+	"star.h"
+
+1536687744 c:\users\~mohamed~\documents\c prog\assignment2\stars\star.h
+	<stdio.h>
+	<stdlib.h>
+
+1536687763 source:c:\users\~mohamed~\documents\c prog\assignment2\stars\star.c
+	<stdio.h>
+	<stdlib.h>
+

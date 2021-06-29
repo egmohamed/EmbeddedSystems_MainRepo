@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551107882 source:c:\users\~mohamed~\documents\c prog\count ones binaries\main.c
+	<stdio.h>
+	<stdlib.h>
+

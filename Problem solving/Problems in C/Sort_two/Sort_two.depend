@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535788021 source:c:\users\~mohamed~\documents\c prog\sort_two\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535788938 source:c:\users\~mohamed~\documents\c prog\sort_two\bubblesort.c
+

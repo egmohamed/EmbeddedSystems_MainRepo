@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536315246 source:c:\users\~mohamed~\documents\c prog\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queu.h"
+
+1536315095 c:\users\~mohamed~\documents\c prog\queue\queu.h
+
+1536315500 source:c:\users\~mohamed~\documents\c prog\queue\queu.c
+	<stdio.h>
+	<stdlib.h>
+	"queu.h"
+

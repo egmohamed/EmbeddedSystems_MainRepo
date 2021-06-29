@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536689467 source:c:\users\~mohamed~\documents\c prog\assignment2\swap_int\swap.c
+	<stdio.h>
+	<stdlib.h>
+
+1536689648 source:c:\users\~mohamed~\documents\c prog\assignment2\swap_int\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533632811 source:c:\users\~mohamed~\documents\c prog\perfect_squarre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551111370 source:c:\users\~mohamed~\documents\c prog\risingedgecounter\main.c
+	<stdio.h>
+	<stdlib.h>
+

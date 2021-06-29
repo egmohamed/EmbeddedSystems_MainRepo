@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536688658 source:c:\users\~mohamed~\documents\c prog\assignment2\prime_intervals\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536688709 source:c:\users\~mohamed~\documents\c prog\assignment2\prime_intervals\prime.c
+	<stdio.h>
+	<stdlib.h>
+

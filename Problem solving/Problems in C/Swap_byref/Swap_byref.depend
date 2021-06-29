@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534269262 source:c:\users\~mohamed~\documents\c prog\swap_byref\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
